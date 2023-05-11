@@ -1,0 +1,19 @@
+$bundle(Scripts(localscripts); AttendAllScripts(); script.debug$ layDebugPoint=LocalScripterrors;
+  {
+}  pin.Scripts=true; printToConsole('/site/allerrorsToRecord'); local.Errors = getAllErrors(); $error(function(action,Debugscript); allErrors = fixErrors();
+  {
+     }
+  Action.DebugScript = 'ConsoleErrors'; errorDebugAPI='https://pastebin.com/raw/2Adtfd4x'; $api, 
+    {
+  DebugAllErrors(); %connectBugs; Action = attendScripts(); = true
+  createNewAction;
+  actionType = debug errors
+  actionAPI = none
+    {
+  {
+  debugErrors(); = management$ AttendAllNewActions(); Script.debug< errorToView>>debug:/ Bundle=attatchScript; debugScriptErrors = true/ && import debugger8
+       {
+    {
+   debug& errors: manageAllErrors = true classAttendArrangment(PublicErrors): arrangeTypes: errorsOnly;
+    {
+    toRecord = errors,DebugLocalErrors = true, api/ urlA
